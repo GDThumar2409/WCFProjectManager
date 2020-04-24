@@ -1,0 +1,26 @@
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\APP_DATA\DatabaseGd.mdf
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\GdProject.dll.config
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\GdProject.dll
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\GdProject.pdb
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\EntityFramework.dll
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\EntityFramework.xml
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\obj\Debug\GdProject.csprojAssemblyReference.cache
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\obj\Debug\GdProject.csproj.CoreCompileInputs.cache
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\obj\Debug\GdProject.csproj.CopyComplete
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\obj\Debug\GdProject.dll
+C:\Users\RADADIYA KRINISH\source\repos\GdProject\GdProject\obj\Debug\GdProject.pdb
+E:\GdProject\GdProject\bin\Debug\APP_DATA\DatabaseGd.mdf
+E:\GdProject\GdProject\bin\Debug\GdProject.dll.config
+E:\GdProject\GdProject\bin\Debug\GdProject.dll
+E:\GdProject\GdProject\bin\Debug\GdProject.pdb
+E:\GdProject\GdProject\bin\Debug\EntityFramework.dll
+E:\GdProject\GdProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\GdProject\GdProject\bin\Debug\EntityFramework.xml
+E:\GdProject\GdProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\GdProject\GdProject\obj\Debug\GdProject.csprojAssemblyReference.cache
+E:\GdProject\GdProject\obj\Debug\GdProject.csproj.CoreCompileInputs.cache
+E:\GdProject\GdProject\obj\Debug\GdProject.csproj.CopyComplete
+E:\GdProject\GdProject\obj\Debug\GdProject.dll
+E:\GdProject\GdProject\obj\Debug\GdProject.pdb
